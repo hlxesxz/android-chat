@@ -75,7 +75,7 @@ public class Config {
      * <p>
      * 如果不想显示工作台，置为 null 即可
      */
-    public static String WORKSPACE_URL = "https://open.wildfirechat.cn/work.html";
+    public static String WORKSPACE_URL = null;
 
     /**
      * 语音识别服务地址，配置之后，长按语音消息，会显示转文字按钮。
